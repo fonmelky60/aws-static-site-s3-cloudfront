@@ -24,12 +24,6 @@ This project demonstrates how to deploy a static website on AWS using:
 ## Architecture
 ![AWS Architecture](./architecture.png)
 
-## Screenshots
-### S3 Bucket Settings
-![S3](./s3-settings.png)
-
-### CloudFront Distribution
-![CloudFront](./cloudfront.png)
 
 ## Lessons Learned
 - How to configure a static website on S3
