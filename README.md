@@ -21,10 +21,6 @@ This project demonstrates how to deploy a static website on AWS using:
 - Secure bucket policies
 - Custom domain integration
 
-## Architecture
-![AWS Architecture](./architecture.png)
-
-
 ## Lessons Learned
 - How to configure a static website on S3
 - Using CloudFront for SSL and content delivery
